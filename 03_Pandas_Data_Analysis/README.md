@@ -1,0 +1,19 @@
+# 🐼 Module 03: Data Analysis with Pandas
+
+This folder contains Jupyter Notebooks, datasets, and practical exercises developed during the **Pandas** courses from Alura's Data Science Career Track.
+
+## 📁 Content Overview
+
+* **`part_1_pandas_fundamentals/`**: Introduction to Pandas, DataFrames, Series, data selection, filtering, and initial exploratory data analysis (EDA).
+  * `lessons/`: Main guided project on real estate data (`real_estate_project_pandas.ipynb`).
+  * `exercises/`: Hands-on exercises exploring student datasets and machine learning requests.
+
+* **`part_2_pandas_io/`**: Working with different file formats (CSV, JSON, HTML, Database tables) and data import/export techniques.
+  * `lessons/`: Notebooks covering step-by-step file loading and manipulation.
+  * `exercises/`: Challenges involving varied data formats.
+  * `resources/`: Raw data files (JSON, HTML, images) used during exercises and lessons.
+
+## 🛠️ Tools & Libraries
+* **Language:** Python 3.x
+* **Primary Library:** Pandas
+* **Environment:** Google Colaboratory (`.ipynb`)
