@@ -1,0 +1,2 @@
+SELECT DISTINCT product_id
+from sales_table_challenge_lesson_1;

@@ -1,0 +1,1 @@
+SELECT * from suppliertable where country_of_origin = 'China';
