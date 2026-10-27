@@ -13,6 +13,11 @@ This folder contains Jupyter Notebooks, datasets, and practical exercises develo
   * `exercises/`: Challenges involving varied data formats.
   * `resources/`: Raw data files (JSON, HTML, images) used during exercises and lessons.
 
+* **`part_3_pandas_selecting_and_grouping/`**: Advanced data selection, conditional filtering, grouping operations (`groupby`), and aggregations.
+  * `lessons/`: Guided notebooks working with population and emissions datasets (`POP2022_Municipios`, `SEEG10`).
+  * `exercises/`: Hands-on challenges applying queries, filtering logic, and summary statistics.
+  * `resources/`: Public datasets (Excel files) used for data aggregation and analysis.
+
 ## 🛠️ Tools & Libraries
 * **Language:** Python 3.x
 * **Primary Library:** Pandas
