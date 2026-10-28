@@ -18,6 +18,11 @@ This folder contains Jupyter Notebooks, datasets, and practical exercises develo
   * `exercises/`: Hands-on challenges applying queries, filtering logic, and summary statistics.
   * `resources/`: Public datasets (Excel files) used for data aggregation and analysis.
 
+* **`part_4_pandas_data_transformation/`**: Data cleaning, wrangling, nested JSON normalization, string manipulation, and type conversions.
+  * `lessons/`: Step-by-step notebooks on transforming hospitality and property availability datasets (`lesson_01.ipynb` through `lesson_04.ipynb`).
+  * `exercises/`: Practical challenges and a comprehensive challenge project (`challenge_project.ipynb`).
+  * `resources/`: Hospitality datasets in JSON format (`dados_hospedagem.json`, `moveis_disponiveis.json`, normalized versions).
+
 ## 🛠️ Tools & Libraries
 * **Language:** Python 3.x
 * **Primary Library:** Pandas
