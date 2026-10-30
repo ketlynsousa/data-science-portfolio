@@ -23,6 +23,11 @@ This folder contains Jupyter Notebooks, datasets, and practical exercises develo
   * `exercises/`: Practical challenges and a comprehensive challenge project (`challenge_project.ipynb`).
   * `resources/`: Hospitality datasets in JSON format (`dados_hospedagem.json`, `moveis_disponiveis.json`, normalized versions).
 
+* **`part_5_pandas_data_cleaning/`**: Comprehensive data cleaning pipeline, handling missing values, identifying and removing outliers, encoding categorical features (dummies), and exporting processed datasets.
+  * `lessons/`: Guided notebooks (`lesson_01.ipynb` through `lesson_05.ipynb`) covering customer churn data preprocessing (`dataset-telecon.json`) and overview documentation.
+  * `exercises/`: Practical exercises (`exercise_01.ipynb` through `exercise_04.ipynb`) focusing on missing value handling, outlier detection, and data feature encoding.
+  * `resources/`: Telecom customer churn JSON datasets and intermediate preprocessed subsets (normalized, null-removed, outlier-filtered, and dummy-encoded versions).
+
 ## 🛠️ Tools & Libraries
 * **Language:** Python 3.x
 * **Primary Library:** Pandas
